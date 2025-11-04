@@ -1,0 +1,7 @@
+#include<stdio.h>
+int main(){
+float F,C;
+scanf("%f",&C);
+printf("%.2f", F=(C*9/5)+32);
+return 0;
+}

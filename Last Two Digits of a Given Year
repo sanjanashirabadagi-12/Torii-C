@@ -1,0 +1,7 @@
+#include<stdio.h>
+int main(){
+int Year;
+scanf("%d",&Year);
+printf("%02d", Year%100);
+return 0;
+}

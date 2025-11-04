@@ -1,0 +1,10 @@
+#include<stdio.h>
+int main(){
+int a,sq,p;
+scanf("%d",&a);
+sq=a*a;
+p=4*a;
+printf("%d ",sq);
+printf("%d ",p);
+return 0;
+}

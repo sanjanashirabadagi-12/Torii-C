@@ -1,0 +1,10 @@
+include<stdio.h>
+#include<math.h>
+int main(){
+int x,y;
+float hypo;
+scanf("%d%d",&x,&y);
+hypo=sqrt(x*x+y*y);
+printf("%.2f", hypo);
+return 0;
+}

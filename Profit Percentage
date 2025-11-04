@@ -1,0 +1,7 @@
+#include<stdio.h>
+int main(){
+double X,Y;
+scanf("%lf%lf",&x,&Y);
+printf("%.21f",(Y-X)/X*100);
+return 0;
+}

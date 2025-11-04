@@ -1,0 +1,7 @@
+#include<stdio.h>
+int main(){
+int X,W1,W2;
+scanf("%d%d%d%d",&x,&W1,&W2);
+printf("%d",3*X-(W1+W2));
+return 0;
+}

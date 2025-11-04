@@ -1,0 +1,7 @@
+#include<stdio.h>
+int main(){
+int Base, Height;
+scanf("%d%d", &Base, &Height);
+printf("%d", (Base*Height)/2);
+return 0;
+}

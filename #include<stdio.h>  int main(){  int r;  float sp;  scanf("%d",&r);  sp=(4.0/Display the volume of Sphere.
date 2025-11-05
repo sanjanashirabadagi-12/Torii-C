@@ -1,9 +1,0 @@
-#include<stdio.h>
-int main(){
-int r;
-float sp;
-scanf("%d",&r);
-sp=(4.0/3.0)*(3.14*r*r*r);
-printf("%.2f",sp);
-return 0;
-}

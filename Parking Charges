@@ -1,0 +1,7 @@
+#include<stdio.h>
+int main(){
+int X,Y,H;
+scanf("%d%d%d",&x,&Y,&H);
+printf("%d",X+Y*H-Y);
+return 0;
+}

@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main(){
+int A,B;
+scanf("%d%d",&A,&B);
+int correct=(A+B);
+int wrong=(A*B);
+printf("%d",abs (correct-wrong));
+return 0;
+}

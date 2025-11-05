@@ -1,0 +1,10 @@
+#include<stdio.h>
+#include<math.h>
+int main(){
+double P,R,T;
+scanf("%1f%1f%lf",&P,&R,&T);
+double A=P*pow((1+(R/100)),Τ);
+double CI=A-P;
+printf("%.21f",CI);
+return 0;
+}
